@@ -1,4 +1,4 @@
-**Project Title**
+**Project Title**:
 Indian Crime Analysis Dashboard (Power BI)
 
 **Project Overview**
@@ -6,7 +6,6 @@ Indian Crime Analysis Dashboard (Power BI)
 - The dashboard highlights crime patterns by city, age group, category, and yearly trends to uncover key insights.
 
 **Dashboard Features**
-## Dashboard Features
 
 - Crime trend analysis by year
 - Top 5 cities with highest crime rates
@@ -17,7 +16,6 @@ Indian Crime Analysis Dashboard (Power BI)
 - Year-over-year crime growth
 
 **Tools Used**
-Tools & Technologies:
 - Power BI
 - Data Cleaning using Power Query
 - Data Modeling
@@ -28,7 +26,6 @@ Tools & Technologies:
 ![dashboard preview](https://github.com/user-attachments/assets/5661a812-0a55-465a-a44a-cb68c70848d8)
 
 **Key Insights**
-Key Insights:
 - Delhi recorded the highest crime rate among major cities.
 - Crime incidents peaked during the month of March.
 - Individuals aged 50+ represent the largest share of reported cases.
